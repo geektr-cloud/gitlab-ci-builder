@@ -1,3 +1,8 @@
+# Deprecated!!!
+
+project moved to [github](https://github.com/geektr-cloud/gitlab-ci-builder)
+
+
 # Gitlab CI Builder
 
 packages:
